@@ -1,4 +1,4 @@
-### call me 跌倒的小黄瓜😁
+### Call me 跌倒的小黄瓜😁
 
 <!--
 **1793523411/1793523411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-------------
+<br/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
