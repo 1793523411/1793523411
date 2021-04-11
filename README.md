@@ -30,3 +30,12 @@ Here are some ideas to get you started:
 <a href="https://github.com/1793523411">
   <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1793523411&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&layout=compact&theme=tokyonight&show_icons=true&hide_title=true" />
 </a>
+
+<hr/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1793523411&repo=xingsi" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1793523411&repo=create-alert" />
+</a>
